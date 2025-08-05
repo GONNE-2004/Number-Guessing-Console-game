@@ -1,0 +1,13 @@
+The project starts as below:
+-Thinkg of number btn 1-100: the number will be choosen at random e.g. 20
+-Difficulty level: easy = 10 chances and hard = 5 chances
+-Lets say one chose hard
+-if choice is greater than number
+-         too high, chance minus 1
+-         go back to line 2
+-elif choice is lower than number
+-         too low, try again
+-          go back to line 2, chance minus 1
+-else
+-     chose is equal to number
+-       you got it, number
